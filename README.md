@@ -1,4 +1,4 @@
-!July2026 just quick, I will add my own photos but I'm chucking up enough right now for others to give this a go.
+!July2026 just quick, I will add my own photos but I'm chucking up enough right now for others to give this a go. DON'T superglue, just tape, TTP223 modules have some adjustments that can be made, some mods for sensitivity etc - I'll try and document that soon (hint: foil under button, or you can run wire around outside edge of desired touch area and attach one end to pin 3 of the IC... but I'll get in to this some time)
 
 
 Minimal effort and resources required, I'm not a fan of 3D printing in general but I'm in the middle of several different controllers and thought this might be of a suitable level for some people I know, and some of those only have very small 3d printers. This will fit on the smallest printers available typically sold to kids and schools.
